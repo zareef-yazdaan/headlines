@@ -1,4 +1,4 @@
-# headlines
+# Headlines
 
 <p>Install beautifulsoup and requests first</p>
 <p>For convenience set alias.</p>
